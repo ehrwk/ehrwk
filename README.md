@@ -13,3 +13,4 @@ stats](https://github-readme-stats.vercel.app/api?username=ehrwk)
 * GDSC web 멤버 (2021.9 ~ )
 
 * 현재는 코딩테스트를 위해 알고리즘 공부를 하고 있습니다
+* 커밋도 매일 하고자 노력중입니다!
