@@ -2,7 +2,7 @@
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=ehrwk)
 
-## BOJ :sweat_smile:
+## BOJ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrwk133)](https://solved.ac/ehrwk133)
 [![Solved.ac
